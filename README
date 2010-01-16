@@ -1,0 +1,3 @@
+The is the adapter to use Qcodo and Qcubed with Oracle DBMSs. This version fixes bugs found in this forum: http://qcu.be/content/problem-qoracle-adapter
+
+I am using Rails as web framework and I am moving my current Qcubed (an old version) to Ruby on Rails. However if someone needs my help with the adapter, I will try to help. Please submit you issues here: http://github.com/rtacconi/Qcodo-Qcubed-Oracle-adapter/issues/
